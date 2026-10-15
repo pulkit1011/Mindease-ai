@@ -1,0 +1,61 @@
+{
+  "_readme": "Edit this file to update support resources; no code change is needed. A resource is shown as VERIFIED only if verification_status is 'verified' AND source_url and verified_on are filled in. Everything below was written WITHOUT live verification (no internet in the build environment) and must be checked against the official source before real use.",
+  "region": "India",
+  "resources": [
+    {
+      "id": "emergency_112",
+      "name": "National emergency number (police, fire, ambulance)",
+      "contact": "112",
+      "contact_type": "phone",
+      "intended_use": "Immediate danger or medical emergency.",
+      "hours": "To be confirmed",
+      "source_url": "https://112.gov.in",
+      "verified_on": null,
+      "verification_status": "unverified"
+    },
+    {
+      "id": "tele_manas",
+      "name": "Tele-MANAS (Government of India tele-mental-health service)",
+      "contact": "14416 or 1-800-891-4416",
+      "contact_type": "phone",
+      "intended_use": "Support for emotional distress and mental health concerns.",
+      "hours": "To be confirmed",
+      "source_url": "https://telemanas.mohfw.gov.in",
+      "verified_on": null,
+      "verification_status": "unverified"
+    },
+    {
+      "id": "women_helpline_181",
+      "name": "Women helpline",
+      "contact": "181",
+      "contact_type": "phone",
+      "intended_use": "Women facing violence or harassment.",
+      "hours": "To be confirmed",
+      "source_url": "",
+      "verified_on": null,
+      "verification_status": "unverified"
+    },
+    {
+      "id": "childline_1098",
+      "name": "CHILDLINE (for children and young people under 18)",
+      "contact": "1098",
+      "contact_type": "phone",
+      "intended_use": "Children or young people in need of care or protection.",
+      "hours": "To be confirmed",
+      "source_url": "",
+      "verified_on": null,
+      "verification_status": "unverified"
+    },
+    {
+      "id": "campus_counselling",
+      "name": "Your college or university counselling cell",
+      "contact": "",
+      "contact_type": "local",
+      "intended_use": "Confidential counselling for students. Add your institution's contact details here.",
+      "hours": "",
+      "source_url": "",
+      "verified_on": null,
+      "verification_status": "needs_local_details"
+    }
+  ]
+}
